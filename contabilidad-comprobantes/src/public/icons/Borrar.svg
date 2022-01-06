@@ -1,0 +1,15 @@
+<svg id="delete" xmlns="http://www.w3.org/2000/svg" width="67.709" height="67.709" viewBox="0 0 67.709 67.709">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #839ab6;
+      }
+    </style>
+  </defs>
+  <path id="Trazado_23987" data-name="Trazado 23987" class="cls-1" d="M0,0H67.709V67.709H0Z"/>
+  <path id="Trazado_23988" data-name="Trazado 23988" class="cls-2" d="M7.821,48.14a5.659,5.659,0,0,0,5.642,5.642h22.57a5.659,5.659,0,0,0,5.642-5.642V14.285H7.821ZM44.5,5.821H34.623L31.8,3H17.7L14.874,5.821H5v5.642H44.5Z" transform="translate(9.106 5.464)"/>
+</svg>

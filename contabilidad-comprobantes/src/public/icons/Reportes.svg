@@ -1,0 +1,23 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="80.369" height="78.621" viewBox="0 0 80.369 78.621">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        isolation: isolate;
+      }
+
+      .cls-3 {
+        fill: #839ab6;
+      }
+    </style>
+  </defs>
+  <g id="invisible_box" data-name="invisible box" transform="translate(0 0)">
+    <rect id="Rectángulo_1657" data-name="Rectángulo 1657" class="cls-1" width="80.369" height="78.621"/>
+  </g>
+  <g id="icons_Q2" data-name="icons Q2" class="cls-2" transform="translate(4.793 10.19)">
+    <path id="Trazado_23952" data-name="Trazado 23952" class="cls-3" d="M30.6,12.614l8.1,7.936,1.819,1.984H68.137V58.91H8.614v-46.3H30.6M33.415,6H5.307A3.307,3.307,0,0,0,2,9.307v52.91a3.307,3.307,0,0,0,3.307,3.307H71.444a3.307,3.307,0,0,0,3.307-3.307V19.227a3.307,3.307,0,0,0-3.307-3.307H43.336Z" transform="translate(-2 -6)"/>
+  </g>
+</svg>

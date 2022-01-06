@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.45" height="76.874" viewBox="0 0 70.45 76.874">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #839ab6;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" class="cls-1">
+    <g id="invisible_box" data-name="invisible box" transform="translate(0 0)">
+      <rect id="Rectángulo_1658" data-name="Rectángulo 1658" class="cls-2" width="69.886" height="76.874"/>
+    </g>
+    <g id="Q3_icons" data-name="Q3 icons" class="cls-1" transform="translate(4.553 4.336)">
+      <path id="Trazado_23953" data-name="Trazado 23953" class="cls-3" d="M64.9,16.965H48.427V7.241a3.126,3.126,0,0,0-3-3.241H24.465a3.126,3.126,0,0,0-3,3.241v9.724H5a3.126,3.126,0,0,0-3,3.241V65.585a3.126,3.126,0,0,0,3,3.241H64.9a3.126,3.126,0,0,0,3-3.241V20.206A3.126,3.126,0,0,0,64.9,16.965ZM27.46,10.483H42.436v6.483H27.46ZM61.906,23.448V33.82a53.291,53.291,0,0,1-26.958,7.617A53.291,53.291,0,0,1,7.991,33.82V23.448ZM7.991,62.343V41.113a56.184,56.184,0,0,0,23.962,6.645V53.43h5.991V47.758a56.184,56.184,0,0,0,23.962-6.645v21.23Z" transform="translate(-2 -4)"/>
+    </g>
+  </g>
+</svg>

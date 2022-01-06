@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="316.94" height="33" viewBox="0 0 316.94 33">
+  <g id="Paginación" transform="translate(-1463.247 -4144.277)">
+    <g id="Pagination_Left_Small" data-name="Pagination/Left/Small" transform="translate(1463.247 4144.277)">
+      <g id="base" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <path d="M4,0H85a0,0,0,0,1,0,0V32a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+        <path d="M4,.5H84a.5.5,0,0,1,.5.5V31a.5.5,0,0,1-.5.5H4A3.5,3.5,0,0,1,.5,28V4A3.5,3.5,0,0,1,4,.5Z" fill="none"/>
+      </g>
+      <text id="Anterior" transform="translate(16 21)" fill="#6c757d" font-size="15" font-family="ArialMT, Arial"><tspan x="0" y="0">Anterior</tspan></text>
+    </g>
+    <g id="Pagination_Right_Small" data-name="Pagination/Right/Small" transform="translate(1681.187 4145.277)">
+      <g id="base-2" data-name="base" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <path d="M0,0H95a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M1,.5H95A3.5,3.5,0,0,1,98.5,4V28A3.5,3.5,0,0,1,95,31.5H1A.5.5,0,0,1,.5,31V1A.5.5,0,0,1,1,.5Z" fill="none"/>
+      </g>
+      <text id="Siguiente" transform="translate(16 21)" fill="#0e4a7d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Siguiente</tspan></text>
+    </g>
+    <g id="Pagination_Center_Small" data-name="Pagination/Center/Small" transform="translate(1554.954 4145.277)">
+      <path id="base-3" data-name="base" d="M0,0H41V32H0Z" fill="#455cc7"/>
+      <text id="_1" data-name="1" transform="translate(16 21)" fill="#fff" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">1</tspan></text>
+    </g>
+    <g id="Pagination_Center_Small-2" data-name="Pagination/Center/Small" transform="translate(1597.032 4145.277)">
+      <g id="base-4" data-name="base" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="41" height="32" stroke="none"/>
+        <rect x="0.5" y="0.5" width="40" height="31" fill="none"/>
+      </g>
+      <text id="_2" data-name="2" transform="translate(16 21)" fill="#0e4a7d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="Pagination_Center_Small-3" data-name="Pagination/Center/Small" transform="translate(1639.109 4145.277)">
+      <g id="base-5" data-name="base" fill="#fff" stroke="#dee2e6" stroke-width="1">
+        <rect width="41" height="32" stroke="none"/>
+        <rect x="0.5" y="0.5" width="40" height="31" fill="none"/>
+      </g>
+      <text id="_3" data-name="3" transform="translate(16 21)" fill="#0e4a7d" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>

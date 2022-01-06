@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="66.391" height="64.644" viewBox="0 0 66.391 64.644">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #839ab6;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2" class="cls-1">
+    <g id="invisible_box" data-name="invisible box" transform="translate(0 0)">
+      <rect id="Rectángulo_1654" data-name="Rectángulo 1654" class="cls-2" width="66.391" height="64.644"/>
+    </g>
+    <g id="icons_Q2" data-name="icons Q2" transform="translate(5.914 1.877)">
+      <path id="Trazado_23946" data-name="Trazado 23946" class="cls-3" d="M31.062,8.765,52.711,28.52v24.9H43.24V34.339a2.706,2.706,0,0,0-2.706-2.706H21.59a2.706,2.706,0,0,0-2.706,2.706V53.417H9.413V28.52L31.062,8.765m0-6.765a1.488,1.488,0,0,0-.947.406L4.812,25.273A2.706,2.706,0,0,0,4,27.3V58.829H24.3V37.045H37.827V58.829h20.3V27.3a2.706,2.706,0,0,0-.812-2.03L32.009,2.406A1.488,1.488,0,0,0,31.062,2Z" transform="translate(-3.999 -2)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="Botón_defecto_Grande" data-name="Botón defecto Grande" xmlns="http://www.w3.org/2000/svg" width="260" height="59" viewBox="0 0 260 59">
+  <g id="Button_L_Primary_Default" data-name="Button/L/Primary/Default" transform="translate(0 0)">
+    <rect id="Frame" width="260" height="59" rx="29.5" transform="translate(0 0)" fill="#455cc7"/>
+    <text id="Text" transform="translate(130 36)" fill="#fff" font-size="17" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-42.101" y="0">DEFECTO</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,137 @@
+.detalle {
+  background-color: #f1f1f1;
+ 
+}
+
+.body-detalle {
+  top: 222px;
+  left: 363px;
+  height: 369px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000059;
+  border-radius: 6px;
+  opacity: 1;
+  margin-left: 252px;
+  padding: 2rem;
+  width: 170px;
+}
+@media (min-width: 768px) {
+  .body-detalle {
+    width: 80%;
+    padding-right: 2rem;
+  }
+}
+.num_Comprobante {
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+ 
+}
+.num_Comprobante_automatico {
+  background-color: #f4f4f4;
+  align-items: center;
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+.num_Comprobante_p {
+  margin-left: 3rem;
+  align-items: flex-end;
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+.num_Entidad_p{
+  margin-left: 5.6rem;
+  align-items: flex-end;
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+.num_Secuencia_p{
+  margin-left: 4.7rem;
+  align-items: flex-end;
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+
+.num_Tipo_p{
+  margin-left: 7rem;
+  align-items: flex-end;
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+.num_Automatico_p{
+  margin-left: 3.8rem;
+  align-items: flex-end;
+  display: flex;
+  font: 13px medium;
+  font-weight: bold;
+  font-family: "Montserrat";
+}
+
+.title-detalle {
+  top: 162px;
+  margin-left: 243px;
+  width: 203px;
+  height: 29px;
+  text-align: left;
+  font-family: normal normal bold 18px "Montserrat";
+  letter-spacing: 0px;
+  color: #0e4a7d;
+  opacity: 1;
+  padding: 3rem;
+}
+.icon_Detail {
+  padding-top: 2rem;
+  padding-left: 2rem;
+  width: 250px;
+  height: 70px;
+  opacity: 1;
+}
+.title_detalle_p {
+  background-color: #f4f4f4;
+  padding: 1rem;
+}
+.btn-atras {
+  background: transparent linear-gradient(180deg, #0575bf 0%, #0d4c81 100%) 0%
+    0% no-repeat padding-box;
+  border: 1px solid #0d538e;
+  border-radius: 2px;
+  opacity: 1;
+  width: 126px;
+  height: 48px;
+  color: #ffffff;
+  font-family: normal normal medium 18px "Montserrat";
+  letter-spacing: 0px;
+  color: #ffffff;
+}
+.btn-editar {
+  background: transparent linear-gradient(180deg, #0575bf 0%, #0d4c81 100%) 0%
+    0% no-repeat padding-box;
+  border: 1px solid #0d538e;
+  border-radius: 2px;
+  opacity: 1;
+  width: 126px;
+  height: 48px;
+  color: #ffffff;
+  font-family: normal normal medium 18px "Montserrat";
+  letter-spacing: 0px;
+  color: #ffffff;
+  margin-left: 1rem;
+}
+.adelante_atras {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  float: right;
+  gap: 1rem;
+  margin-right: 1rem;
+}

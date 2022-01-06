@@ -1,0 +1,15 @@
+<svg id="visibility" xmlns="http://www.w3.org/2000/svg" width="65.486" height="52.07" viewBox="0 0 65.486 52.07">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #839ab6;
+      }
+    </style>
+  </defs>
+  <path id="Trazado_23983" data-name="Trazado 23983" class="cls-1" d="M0,0H65.486V52.07H0Z"/>
+  <path id="Trazado_23984" data-name="Trazado 23984" class="cls-2" d="M32.7,4.5A34.072,34.072,0,0,0,1,25.824a34.218,34.218,0,0,0,63.392,0A34.072,34.072,0,0,0,32.7,4.5Zm0,35.541A14.218,14.218,0,1,1,47.1,25.824,14.318,14.318,0,0,1,32.7,40.041Zm0-22.746a8.531,8.531,0,1,0,8.644,8.53A8.576,8.576,0,0,0,32.7,17.295Z" transform="translate(0.047 0.211)"/>
+</svg>

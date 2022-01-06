@@ -1,0 +1,1591 @@
+.web-1920-3 {
+    align-items: flex-start;
+    background-color: 
+  #f1f1f1;
+    display: flex;
+    height: 1080px;
+    position: relative;
+    width: 1920px;
+  }
+  
+  .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 3px;
+    min-height: 946px;
+    position: relative;
+    width: 1841px;
+  }
+  
+  .title {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-left: 68px;
+    margin-top: 68px;
+    min-height: 31px;
+    white-space: nowrap;
+  }
+  
+  .overlap-group7 {
+    align-items: flex-start;
+    align-self: center;
+    background-color: var(--white);
+    border-radius: 6px;
+    box-shadow: 0px 3px 6px 
+  #00000059;
+    display: flex;
+    height: 569px;
+    margin-left: 4.0px;
+    margin-top: 38px;
+    min-width: 1709px;
+    padding: 32px 52.5px;
+  }
+  
+  .flex-col-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 456px;
+    position: relative;
+    width: 660px;
+  }
+  
+  .comprobante {
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 3.5px;
+    margin-top: 23px;
+    min-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .overlap-group8 {
+    height: 126px;
+    margin-left: 2.0px;
+    margin-top: 6px;
+    position: relative;
+    width: 659px;
+  }
+  
+  .text-1 {
+    height: 26px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 14px;
+    position: absolute;
+    top: 59px;
+    width: 602px;
+  }
+  
+  .tipo-de-comprobante {
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 1.0px;
+    margin-top: 3px;
+    min-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .text-4 {
+    color: var(--sonic-silver);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    height: 42px;
+    letter-spacing: 0;
+    line-height: 15.5px;
+    margin-left: 2.0px;
+    margin-top: 10px;
+    width: 640px;
+  }
+  
+  .flex-col-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 196px;
+    margin-top: 3px;
+    min-height: 468px;
+    width: 740px;
+  }
+  
+  .flex-col-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 308px;
+    position: relative;
+    width: 604px;
+  }
+  
+  .text {
+    letter-spacing: 0;
+    line-height: 18px;
+    min-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .text-7 {
+    height: 47px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-top: 10px;
+    width: 602px;
+  }
+  
+  .secuencia {
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 1.0px;
+    margin-top: 23px;
+    min-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .text-10 {
+    height: 58px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-left: 2.0px;
+    margin-top: 9px;
+    width: 602px;
+  }
+  
+  .flex-row {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 21px;
+    min-width: 740px;
+  }
+  
+  .flex-col-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    min-height: 93px;
+    width: 329px;
+  }
+  
+  .text-11 {
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 1.0px;
+    margin-top: 41px;
+    min-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .flex-col-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px;
+    margin-top: 9.1px;
+    min-height: 90px;
+    position: relative;
+    width: 43px;
+  }
+  
+  .overlap-group9 {
+    height: 139px;
+    margin-left: 12px;
+    position: relative;
+    width: 331px;
+  }
+  
+  .flex-row-1 {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    margin-right: 64.0px;
+    margin-top: 75px;
+    min-width: 365px;
+    position: relative;
+  }
+  
+  .grupo-818 {
+    align-items: flex-start;
+    background: linear-gradient(180deg, 
+  #0575bf 0%, 
+  #0d4c81 100%);
+    border-radius: 2px;
+    cursor: pointer;
+    display: flex;
+    height: 48px;
+    margin-left: 27px;
+    min-width: 169px;
+    padding: 9.5px 47px;
+  }
+  
+  .crear {
+    letter-spacing: 0;
+    line-height: 22px;
+    min-height: 29px;
+    white-space: nowrap;
+  }
+  
+  .componente-92-5 {
+    align-items: center;
+    background-color: 
+  #e5e6e9;
+    box-shadow: 0px 6px 6px 
+  #0000000d;
+    display: flex;
+    flex-direction: column;
+    min-height: 1080px;
+    padding: 14px 0;
+    position: relative;
+    width: 76px;
+  }
+  
+  .lnea-17 {
+    height: 1px;
+    margin-left: 1.0px;
+    margin-top: 223px;
+    object-fit: cover;
+    width: 64px;
+  }
+  
+  .enmascarar-grupo-6 {
+    align-items: flex-end;
+    display: flex;
+    height: 54px;
+    margin-right: 3.74px;
+    overflow: hidden;
+    padding: 3.1px 0;
+    position: relative;
+    width: 42px;
+  }
+  
+  .grupo-2817 {
+    align-items: center;
+    display: flex;
+    margin-left: 5px;
+    min-width: 213px;
+    padding: 0.0px 0;
+  }
+  
+  .overlap-group1 {
+    align-self: flex-end;
+    height: 48px;
+    position: relative;
+    width: 156px;
+  }
+  
+  .overlap-group {
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 156px;
+  }
+  
+  .trazado-23855 {
+    height: 48px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 32px;
+  }
+  
+  .grupo-39 {
+    align-items: flex-end;
+    display: flex;
+    height: 20px;
+    left: 28px;
+    min-width: 128px;
+    position: absolute;
+    top: 14px;
+  }
+  
+  .trazado-23865 {
+    height: 16px;
+    margin-bottom: 0;
+    object-fit: cover;
+    width: 23px;
+  }
+  
+  .trazado-23866 {
+    height: 16px;
+    margin-bottom: 0;
+    margin-left: 1px;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .trazado-238 {
+    height: 16px;
+    margin-bottom: 0;
+    margin-left: 3px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .trazado-23868 {
+    align-self: center;
+    height: 20px;
+    margin-bottom: 0;
+    margin-left: 3px;
+    object-fit: cover;
+    width: 20px;
+  }
+  
+  .trazado-23871 {
+    align-self: center;
+    height: 20px;
+    margin-bottom: 0;
+    margin-left: 3px;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .grupo-38 {
+    align-items: flex-end;
+    display: flex;
+    height: 7px;
+    left: 106px;
+    min-width: 43px;
+    padding: 0 0.0px;
+    position: absolute;
+    top: 6px;
+  }
+  
+  .trazado-23857 {
+    height: 5px;
+    margin-bottom: 0;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .trazado-23858 {
+    height: 5px;
+    margin-bottom: 0.03px;
+    margin-left: 1px;
+    object-fit: cover;
+    width: 5px;
+  }
+  
+  .trazado-23859 {
+    align-self: flex-start;
+    height: 7px;
+    margin-left: 1px;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .trazado-23860 {
+    height: 7px;
+    margin-bottom: 0.05px;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .trazado-23861 {
+    height: 5px;
+    margin-bottom: 0.11px;
+    object-fit: cover;
+    width: 8px;
+  }
+  
+  .trazado-23862 {
+    height: 5px;
+    margin-bottom: 0;
+    margin-left: 1px;
+    object-fit: cover;
+    width: 5px;
+  }
+  
+  .trazado-23863 {
+    height: 5px;
+    margin-bottom: 0.12px;
+    margin-left: 2px;
+    object-fit: cover;
+    width: 4px;
+  }
+  
+  .trazado-23864 {
+    height: 5px;
+    margin-bottom: 0.03px;
+    object-fit: cover;
+    width: 5px;
+  }
+  
+  .grupo-37 {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 22px;
+    margin-left: 3px;
+    margin-top: 10.68px;
+    width: 53px;
+  }
+  
+  .home-contraido {
+    align-items: flex-start;
+    display: flex;
+    margin-right: 0;
+    margin-top: 103px;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653 {
+    background-color: 
+  #839ab6;
+    height: 78px;
+    opacity: 0;
+    width: 5px;
+  }
+  
+  .layer-2 {
+    align-self: center;
+    display: flex;
+    height: 34px;
+    margin-bottom: 0.19px;
+    margin-left: 16px;
+    width: 35px;
+  }
+  
+  .icons-q2 {
+    background-image: url(trazado-23946-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    flex: 1;
+    margin-bottom: 3.1px;
+    margin-left: 3.1px;
+    margin-right: 3.3px;
+    margin-top: 1.0px;
+    width: 28.52px;
+  }
+  
+  .operativo-contraido {
+    align-items: flex-start;
+    background-image: url(trazado-23945-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    margin-right: 0;
+    margin-top: 7px;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653-1 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .grupo-808 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    height: 34px;
+    justify-content: center;
+    margin-bottom: 0.17px;
+    margin-left: 16px;
+    min-width: 34px;
+  }
+  
+  .overlap-group-1 {
+    align-items: flex-end;
+    background-image: url(trazado-5-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 35px;
+    justify-content: flex-end;
+    margin-top: -0.25px;
+    min-width: 35px;
+    padding: 12.2px 12.2px;
+  }
+  
+  .trazado-6 {
+    height: 10px;
+    object-fit: cover;
+    width: 10px;
+  }
+  
+  .fbrica-crditos-contraido {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 7px;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653-2 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .layer-2-1 {
+    align-self: center;
+    display: flex;
+    height: 44px;
+    margin-bottom: 0.06px;
+    margin-left: 12px;
+    width: 42px;
+  }
+  
+  .icons-q2-1 {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    margin-bottom: 4.2px;
+    margin-left: 2.7px;
+    margin-right: 2.8px;
+    margin-top: 3.1px;
+    min-width: 36.89px;
+    padding: 0 0.0px;
+  }
+  
+  .trazado-23947 {
+    height: 37px;
+    object-fit: cover;
+    width: 11px;
+  }
+  
+  .trazado-2394 {
+    height: 37px;
+    margin-bottom: 0;
+    margin-left: 2px;
+    object-fit: cover;
+    width: 11px;
+  }
+  
+  .tesoreria-contraido {
+    align-items: center;
+    display: flex;
+    margin-top: 8px;
+    min-width: 76px;
+  }
+  
+  .rectngulo-1653-3 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .icon-metro-money {
+    height: 31px;
+    margin-left: 24px;
+    margin-top: 0.59px;
+    object-fit: cover;
+    width: 17px;
+  }
+  
+  .contabilidad-contraido {
+    align-items: flex-start;
+    background-image: url(trazado-23945-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    margin-right: 0;
+    margin-top: 8px;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653-4 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .grupo-812 {
+    align-self: center;
+    display: flex;
+    height: 37px;
+    margin-bottom: 0.51px;
+    margin-left: 14px;
+    transform: rotate(90deg);
+    width: 38px;
+  }
+  
+  .layer-2-2 {
+    display: flex;
+    flex: 1;
+    width: 37.74px;
+  }
+  
+  .icons-q2-2 {
+    align-items: flex-start;
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    margin-bottom: 1.7px;
+    margin-left: 1.7px;
+    margin-right: 1.8px;
+    margin-top: 0.9px;
+    min-width: 34.21px;
+  }
+  
+  .overlap-group-2 {
+    height: 34px;
+    margin-top: 0;
+    position: relative;
+    width: 34px;
+  }
+  
+  .trazado-23950 {
+    height: 16px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    transform: rotate(-90deg);
+    width: 16px;
+  }
+  
+  .trazado-23951 {
+    height: 28px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 6px;
+    transform: rotate(-90deg);
+    width: 28px;
+  }
+  
+  .cartera-contraido {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 6px;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653-5 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .layer-2-3 {
+    align-self: center;
+    display: flex;
+    height: 41px;
+    margin-left: 14px;
+    margin-top: 0.25px;
+    width: 37px;
+  }
+  
+  .q3-icons {
+    background-image: url(trazado-23953-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    flex: 1;
+    margin-bottom: 4.1px;
+    margin-left: 2.4px;
+    margin-right: 0;
+    margin-top: 2.3px;
+    width: 34.72px;
+  }
+  
+  .reportes-contraido {
+    align-items: flex-start;
+    display: flex;
+    margin-top: 6px;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653-6 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .layer-2-4 {
+    align-self: center;
+    display: flex;
+    height: 41px;
+    margin-bottom: 0.82px;
+    margin-left: 12px;
+    width: 42px;
+  }
+  
+  .icons-q2-3 {
+    background-image: url(trazado-23952-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    flex: 1;
+    margin-bottom: 4.7px;
+    margin-left: 2.5px;
+    margin-right: 1.5px;
+    margin-top: 5.4px;
+    width: 38.33px;
+  }
+  
+  .ayuda-contraido {
+    align-items: flex-start;
+    display: flex;
+    min-width: 76px;
+    position: relative;
+  }
+  
+  .rectngulo-1653-7 {
+    height: 78px;
+    width: 5px;
+  }
+  
+  .icono-ayuda {
+    align-items: flex-end;
+    align-self: center;
+    background-image: url(trazado-23853-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 36px;
+    margin-bottom: 0.19px;
+    margin-left: 15px;
+    min-width: 36px;
+    padding: 7.0px 10.7px;
+  }
+  
+  .trazado-23854 {
+    height: 22px;
+    object-fit: cover;
+    width: 15px;
+  }
+  
+  .componente-91-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 118px;
+    width: 1841px;
+  }
+  
+  .overlap-group4 {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    height: 68px;
+    justify-content: flex-end;
+    min-width: 1841px;
+    padding: 16px 19.8px;
+    position: relative;
+  }
+  
+  .overlap-group2 {
+    height: 29px;
+    margin-bottom: 1.0px;
+    margin-left: 12px;
+    position: relative;
+    width: 240px;
+  }
+  
+  .rectngulo-40 {
+    background-color: var(--white);
+    border: 1px solid 
+  #c4c3c3;
+    border-radius: 4px;
+    height: 29px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 229px;
+  }
+  
+  .rectngulo-45 {
+    height: 29px;
+    left: 188px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 52px;
+  }
+  
+  .buscar {
+    color: 
+  #f9faff;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    left: 192px;
+    letter-spacing: 0;
+    line-height: 12px;
+    position: absolute;
+    top: 8px;
+    white-space: nowrap;
+  }
+  
+  .grupo-22 {
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 13px;
+    left: 8px;
+    position: absolute;
+    top: 8px;
+    width: 13px;
+  }
+  
+  .lnea-12 {
+    height: 20px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    width: 1px;
+  }
+  
+  .grupo-815 {
+    align-self: flex-start;
+    height: 36px;
+    margin-left: 1069px;
+    object-fit: cover;
+    width: 92px;
+  }
+  
+  .lnea-16 {
+    align-self: flex-end;
+    height: 33px;
+    margin-bottom: 0.5px;
+    margin-left: 16px;
+    object-fit: cover;
+    width: 1px;
+  }
+  
+  .overlap-group6 {
+    align-items: flex-end;
+    align-self: flex-start;
+    background-color: 
+  #003b6a;
+    border-radius: 16.5px;
+    display: flex;
+    height: 33px;
+    justify-content: flex-end;
+    margin-left: 11px;
+    min-width: 33px;
+    padding: 3.5px 2.0px;
+  }
+  
+  .dp {
+    color: var(--white);
+    font-family: var(--font-family-montserrat);
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    min-height: 22px;
+    min-width: 28px;
+    white-space: nowrap;
+  }
+  
+  .overlap-group-3 {
+    align-self: flex-end;
+    height: 30px;
+    margin-bottom: 0.91px;
+    margin-left: 9px;
+    position: relative;
+    width: 77px;
+  }
+  
+  .name {
+    color: var(--midnight-blue);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s);
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 12px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .analista {
+    color: 
+  #a4b1b7;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-s);
+    font-weight: 300;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 12px;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+  }
+  
+  .overlap-group1-1 {
+    height: 26px;
+    margin-bottom: 1.76px;
+    margin-left: 30px;
+    position: relative;
+    width: 24px;
+  }
+  
+  .trazado-62 {
+    height: 26px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 13px;
+  }
+  
+  .trazado-63 {
+    height: 11px;
+    left: 6px;
+    object-fit: cover;
+    position: absolute;
+    top: 8px;
+    width: 19px;
+  }
+  
+  .overlap-group5 {
+    align-items: flex-end;
+    background-color: var(--white);
+    display: flex;
+    height: 44px;
+    margin-top: 6px;
+    min-width: 1841px;
+    padding: 7.9px 23px;
+    position: relative;
+  }
+  
+  .home-contabilidad {
+    color: var(--mountain-mist);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 12px;
+    margin-bottom: 2.64px;
+    min-height: 17px;
+    min-width: 130px;
+    white-space: nowrap;
+  }
+  
+  .span0 {
+    font-weight: 400;
+  }
+  
+  .span1 {
+    color: var(--midnight-blue);
+    font-size: var(--font-size-s);
+  }
+  
+  .span2 {
+    font-size: var(--font-size-s);
+  }
+  
+  .grupo-59 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 0;
+    min-height: 16px;
+    width: 28px;
+  }
+  
+  .rectngulo-130 {
+    background-color: var(--gray);
+    border-radius: 4px;
+    height: 3px;
+    width: 28px;
+  }
+  
+  .rectngulo-131 {
+    background-color: var(--gray);
+    border-radius: 4px;
+    height: 3px;
+    margin-top: 4px;
+    width: 28px;
+  }
+  
+  .rectngulo-132 {
+    background-color: var(--gray);
+    border-radius: 4px;
+    height: 3px;
+    margin-top: 3px;
+    width: 28px;
+  }
+  
+  .grupo-27 {
+    align-items: flex-start;
+    background-image: url(trazado-66-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    margin-left: 40px;
+    margin-top: 0.5px;
+    min-width: 23px;
+    padding: 6.4px 6.6px;
+  }
+  
+  .trazado-67 {
+    height: 6px;
+    object-fit: cover;
+    width: 6px;
+  }
+  
+  .grupo-25 {
+    align-items: flex-end;
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 27px;
+    justify-content: flex-end;
+    margin-left: 29px;
+    margin-top: 0.5px;
+    width: 28px;
+  }
+  
+  .trazado-65 {
+    height: 17.69px;
+    margin-bottom: 0.9px;
+    margin-right: 0.9px;
+    object-fit: cover;
+    width: 17.68px;
+  }
+  
+  .icons {
+    display: flex;
+    height: 20px;
+    margin-left: 25px;
+    margin-top: 1.0px;
+    width: 13px;
+  }
+  
+  .grupo-820 {
+    align-items: center;
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    min-height: 100%;
+    width: 12.94px;
+  }
+  
+  .trazado-23964 {
+    height: 16px;
+    object-fit: cover;
+    width: 13px;
+  }
+  
+  .elipse-6 {
+    background-color: var(--regent-gray);
+    border-radius: 1.41px;
+    height: 3px;
+    margin-right: 0;
+    margin-top: 2px;
+    width: 3px;
+  }
+  
+  .componente-66-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 27px;
+    justify-content: center;
+    margin-left: 1537px;
+    min-width: 102px;
+  }
+  
+  .overlap-group3 {
+    align-items: center;
+    background-image: url(trazado-23978-2.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    display: flex;
+    height: 28px;
+    margin-top: -0.5px;
+    min-width: 103px;
+    padding: 1.4px 8.5px;
+  }
+  
+  .overlap-group-4 {
+    height: 11px;
+    margin-top: 0;
+    position: relative;
+    width: 16px;
+  }
+  
+  .select {
+    height: 11px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 7px;
+  }
+  
+  .lnea-35 {
+    height: 2px;
+    left: 1px;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    width: 15px;
+  }
+  
+  .regresar {
+    align-self: flex-end;
+    color: 
+  #3774af;
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m);
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 14px;
+    min-height: 20px;
+    min-width: 66px;
+    white-space: nowrap;
+  }
+  
+  .componente-55-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-left: 2.5px;
+    min-height: 140px;
+    width: 650px;
+  }
+  
+  .flex-row-2 {
+    align-items: flex-end;
+    display: flex;
+    height: 80px;
+    margin-top: 3px;
+    min-width: 650px;
+  }
+  
+  .flex-col-6 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 80px;
+    width: 602px;
+  }
+  
+  .text-2 {
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-left: 1px;
+    min-height: 26px;
+    white-space: nowrap;
+  }
+  
+  .rectngulo-1631 {
+    background-color: var(--white);
+    border-radius: 8px;
+    height: 48px;
+    margin-top: 6px;
+    width: 602px;
+  }
+  
+  .overlap-group-5 {
+    height: 39px;
+    margin-bottom: 6px;
+    position: relative;
+    width: 48px;
+  }
+  
+  .trazado-23977 {
+    height: 20px;
+    left: 14px;
+    object-fit: cover;
+    position: absolute;
+    top: 11px;
+    width: 29px;
+  }
+  
+  .rectngulo-1634 {
+    background-color: var(--white);
+    height: 39px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 48px;
+  }
+  
+  .text-3 {
+    height: 49px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-left: 2.0px;
+    margin-top: 9px;
+    width: 602px;
+  }
+  
+  .componente-78-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 126px;
+    left: 1px;
+    min-width: 658px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .overlap-group1-2 {
+    height: 126px;
+    position: relative;
+    width: 660px;
+  }
+  
+  .rectngulo-1643 {
+    background-color: var(--white);
+    border-radius: 6px;
+    height: 75px;
+    left: 0;
+    position: absolute;
+    top: 48px;
+    width: 602px;
+  }
+  
+  .number {
+    -webkit-text-stroke: 1px 
+  transparent;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 60px;
+    white-space: nowrap;
+  }
+  
+  .number-1 {
+    -webkit-text-stroke: 1px 
+  transparent;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 100px;
+    white-space: nowrap;
+  }
+  
+  .rectngulo-1631-1 {
+    background-color: var(--white);
+    border-radius: 8px;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 602px;
+  }
+  
+  .text-13 {
+    left: 18px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 12px;
+    white-space: nowrap;
+  }
+  
+  .rectngulo-1646 {
+    height: 30px;
+    left: 9px;
+    position: absolute;
+    top: 90px;
+    width: 593px;
+  }
+  
+  .componente-79-2,
+  .overlap-group-6 {
+    height: 126px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 660px;
+  }
+  
+  .number-2 {
+    -webkit-text-stroke: 1px 
+  transparent;
+    left: 20px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    top: 60px;
+    white-space: nowrap;
+  }
+  
+  .rectngulo-1644 {
+    background-color: var(--white);
+    border: 2px solid var(--trinidad);
+    border-radius: 8px;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 602px;
+  }
+  
+  .number-3 {
+    color: var(--black);
+    font-family: var(--font-family-montserrat);
+    font-size: var(--font-size-m2);
+    font-weight: 500;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 12px;
+    white-space: nowrap;
+  }
+  
+  .rectngulo-1641 {
+    background-color: var(--white);
+    height: 78px;
+    left: 0;
+    position: absolute;
+    top: 48px;
+    width: 606px;
+  }
+  
+  .text-14 {
+    color: var(--trinidad);
+    font-family: var(--font-family-segoeui-regular);
+    font-size: var(--font-size-xxxxl);
+    font-weight: 400;
+    height: 58px;
+    left: 3px;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    top: 55px;
+    width: 657px;
+  }
+  
+  .unin-4 {
+    height: 22px;
+    left: 618px;
+    object-fit: cover;
+    position: absolute;
+    top: 17px;
+    width: 21px;
+  }
+  
+  .rectngulo-1645 {
+    background-color: var(--white);
+    height: 39px;
+    left: 645px;
+    position: absolute;
+    top: 5px;
+    width: 5px;
+  }
+  
+  .componente-80-2 {
+    height: 24px;
+    left: 3px;
+    position: absolute;
+    top: 96px;
+    width: 597px;
+  }
+  
+  .componente-88-1 {
+    background-color: var(--white);
+    border-radius: 6px;
+    display: flex;
+    height: 50px;
+    justify-content: flex-end;
+    margin-top: 4px;
+    width: 604px;
+  }
+  
+  .text-5 {
+    align-self: flex-end;
+    flex: 1;
+    height: 27.43px;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: -9.8px;
+    margin-left: 21.1px;
+    margin-right: 13.2px;
+    width: 541px;
+  }
+  
+  .trazado-78 {
+    height: 6.23px;
+    margin-right: 19.6px;
+    margin-top: -2.9px;
+    object-fit: cover;
+    width: 9.64px;
+  }
+  
+  .componente-93-2 {
+    background-color: var(--white);
+    border-radius: 6px;
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    margin-top: 4px;
+    width: 604px;
+  }
+  
+  .text-8 {
+    align-self: flex-end;
+    height: 22.43px;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: -10.6px;
+    margin-left: 8.4px;
+    width: 353px;
+  }
+  
+  .trazado-78-1 {
+    height: 6.23px;
+    margin-right: 21.6px;
+    margin-top: -2.9px;
+    object-fit: cover;
+    width: 9.64px;
+  }
+  
+  .componente-96-1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-radius: 8px;
+    display: flex;
+    height: 48px;
+    margin-top: 6px;
+    min-width: 602px;
+    padding: 11.5px 17px;
+  }
+  
+  .text-9 {
+    letter-spacing: 0;
+    line-height: 21px;
+    min-height: 24px;
+    white-space: nowrap;
+  }
+  
+  .switch-on {
+    background-color: var(--regent-gray-2);
+    border-radius: 13px;
+    display: flex;
+    height: 25px;
+    justify-content: flex-end;
+    width: 43px;
+  }
+  
+  .rectngulo-94 {
+    background-color: var(--white);
+    border-radius: 12px;
+    margin-bottom: 2.9px;
+    margin-right: 20.7px;
+    margin-top: 3.1px;
+    width: 19px;
+  }
+  
+  .switch-on.switch-on-1 {
+    margin-top: 40px;
+  }
+  
+  .componente-90-6 {
+    align-items: flex-end;
+    box-shadow: 0px 3px 6px 
+  #00000029;
+    display: flex;
+    height: 74px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 331px;
+    padding: 5.4px 4.0px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .overlap-group-7 {
+    height: 60px;
+    position: relative;
+    width: 321px;
+  }
+  
+  .text-1-1 {
+    height: 59px;
+    left: 25px;
+    letter-spacing: 0;
+    line-height: 14px;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    width: 296px;
+  }
+  
+  .info {
+    height: 26px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 26px;
+  }
+  
+  .componente-90-6.componente-90-7 {
+    top: 65px;
+  }
+  
+  .grupo-840 {
+    align-items: flex-start;
+    background: linear-gradient(180deg, 
+  #0575bf 0%, 
+  #0d4c81 100%);
+    border-radius: 2px;
+    display: flex;
+    height: 48px;
+    justify-content: flex-end;
+    min-width: 169px;
+    padding: 9.5px 54px;
+  }
+  
+  .atras {
+    letter-spacing: 0;
+    line-height: 22px;
+    min-height: 29px;
+    white-space: nowrap;
+  }
+  
+  @import url("https://fonts.googleapis.com/css?family=Montserrat:400,700,300,500,600");
+  @font-face {
+    font-family: "SegoeUI-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: url("https://fonts.animaapp.com/SegoeUI-Regular") format("truetype");
+  }
+  
+  .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
+  
+  .overlay {
+    display: none;
+    height: 100%;
+    opacity: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .overlay.animate-appear {
+    animation: reveal 0.3s ease-in-out 1 normal forwards;
+    display: block;
+    opacity: 0;
+  }
+  
+  .overlay.animate-disappear {
+    animation: reveal 0.3s ease-in-out 1 reverse forwards;
+    display: block;
+    opacity: 1;
+  }

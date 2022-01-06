@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Roboto+Mono:wght@400;500;700&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;500;700;900&display=swap');
+body{
+    font: 16px "Regular";
+    font-family: "Montserrat";        
+}
+
+#main-container {
+    margin: 150px auto;
+    width: 600px;    
+}
+
+table{
+    background-color: white;
+    text-align:center;
+    border-collapse:collapse;
+    width:100%;
+
+    @media (max-width: 900px) {
+        grid-template-columns: 1fr;
+        
+    }
+}
+
+th, td{
+    border: solid 1px #C3CCD0;
+    padding: 20px;
+}
+
+thead{
+    background-color: #445DA7;
+    border-bottom: solid 4px #FFFFFF;
+    color: #F5F7FD;
+}
+
+tr:nth-child(even){
+    background-color: #FEFEFE;
+}
+
+tr:hover td {
+    background-color: #D1D4D5;
+    color : #EAF3FB;
+}
+
+/*.body-home {
+    grid-template-columns: repeat(autofill, minmax(min(100%, 25rem), 1fr));
+}
+.container {
+    grid-template-columns: repeat(autofill, minmax(min(100%, 25rem), 1fr));
+}*/
