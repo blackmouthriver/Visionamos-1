@@ -92,6 +92,12 @@ registerApplication({
   activeWhen: ["/codeudor"]
 });
 
+registerApplication({
+  name: "@visionemos/Ver codeudor",
+  app: () => System.import("@visionemos/Ver codeudor"),    
+  activeWhen: ["/Ver codeudor"]
+});
+
 start({
   urlRerouteOnly: true,
 });
