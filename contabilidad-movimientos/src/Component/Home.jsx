@@ -7,7 +7,7 @@ const Home = () => {
   const history = useHistory();
 
   function redireccionar(){
-    history.push('/CREACIÓN DE MOVIMIENTOS CONTABLES');
+    history.push('/movimientos');
   }
   function redireccionarTWO(){
     history.push('/NUEVO CODEUDOR');
