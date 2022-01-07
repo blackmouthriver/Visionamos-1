@@ -3,12 +3,10 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 import creationMovements from "./Component/CreationMovements/creationMovements";
 import receiptMotionCapture from "./Component/CreationMovements/receiptMotionCapture";
 //import Cobelen from "./Component/Image/Cobelen.jfif"
-import receiptMotion from "./Component/Styles/receiptMotion.css"
-import style from "./Component/Styles/style.css"
-import Modal from "./Component/Styles/Modal.css"
-import DrogAndDrag from './Component/CreationMovements/DrogAndDrag/DrogAndDrag';
-import Breadcrmb from "./Component/NavabrAndBreadcrumb/Breadcrumb";
-
+import "./Component/Styles/receiptMotion.css"
+import "./Component/Styles/style.css"
+import "./Component/Styles/Modal.css"
+import './Component/Styles/DragAndDrog.css';
 
 export default function Root(props) {
   return (

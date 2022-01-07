@@ -2,7 +2,6 @@ import React from 'react'
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faFileCsv} from "@fortawesome/free-solid-svg-icons";
 import Modals from '../../Modals/Modals';
-
 const DrogAndDrag = () => {
     {/*
     const dropArea = document.querySelector(".drag-area");

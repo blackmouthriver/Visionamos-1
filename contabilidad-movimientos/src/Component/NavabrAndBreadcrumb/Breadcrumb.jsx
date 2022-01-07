@@ -7,7 +7,7 @@ const Breadcrmb = () => {
     const history = useHistory();
 
     function redireccionar(){
-        history.push('/');
+        history.push('/home');
       }
 
     return ( 

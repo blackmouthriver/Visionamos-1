@@ -237,4 +237,3 @@ const Crudform = () => {
 }
 
 export default Crudform
-

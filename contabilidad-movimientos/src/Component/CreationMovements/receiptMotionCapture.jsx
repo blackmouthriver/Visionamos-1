@@ -5,6 +5,7 @@ import { useHistory } from 'react-router-dom';
 //import Cobelen from '../Image/Cobelen.jfif';
 import Breadcrmb from "../NavabrAndBreadcrumb/Breadcrumb";
 import Swal from 'sweetalert2';
+
 const MotionCapture = () => {
     
     const history = useHistory();

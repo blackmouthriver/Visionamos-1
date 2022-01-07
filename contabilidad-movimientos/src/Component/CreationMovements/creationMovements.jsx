@@ -1,12 +1,9 @@
 import React, {useState} from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faFileCsv} from "@fortawesome/free-solid-svg-icons";
 import Crudform from "./Crudform";
 import Breadcrmb from "../NavabrAndBreadcrumb/Breadcrumb";
 import DrogAndDrag from "./DrogAndDrag/DrogAndDrag";
 import ContainerTable from "./ContainerTable";
-
 const initialDb = [
     {
         id:1,
