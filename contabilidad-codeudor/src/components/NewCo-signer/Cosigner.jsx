@@ -9,6 +9,7 @@ import ViewExpenses from './ViewExpenses'
 import ViewAssets from './ViewAssets'
 import ViewPassives from './ViewPassives'
 
+
 const Cosigner = () => {
     return (
         <div>
