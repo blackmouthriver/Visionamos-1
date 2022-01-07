@@ -21,6 +21,7 @@ const CosignerPersonalInformacion = () => {
                     <label >Ocupación</label>
                     <input />
                </div>
+               
                <div>
                    
                    <label >Segundo nombre</label>
