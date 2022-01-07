@@ -1,9 +1,9 @@
 import React, {useState} from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
-import {faFileCsv} from "@fortawesome/free-solid-svg-icons";
 import Crudform from "./Crudform";
 import Breadcrmb from "../NavabrAndBreadcrumb/Breadcrumb";
+import DrogAndDrag from "./DrogAndDrag/DrogAndDrag";
+import ContainerTable from "./ContainerTable";
 const initialDb = [
     {
         id:1,
@@ -78,20 +78,20 @@ const initialDb = [
     ];
 
 const CreationView = (initialDb) => {
-    const [db, setDb] = useState([]);
+
     return ( 
           <div>
                 <Breadcrmb />
                 <div id="tablebody">     
+                        <div>
+                            <br></br>
+                            <h1 className="title">CREACIÓN DE MOVIMIENTOS CONTABLES</h1>
+                            <div id="globalconteinerhead">
+                                <div class="container-sm">
+                                <div id="conteinerHead">
+                                <label id="label1">Comprobante*</label>
 
-                        <br></br>
-                        <h1 className="title">CREACIÓN DE MOVIMIENTOS CONTABLES</h1>
-                        <div id="globalconteinerhead">
-                        <div class="container-sm">
-                        <div id="conteinerHead">
-                            <label id="label1">Comprobante*</label>
-
-                                <select class="form-select" id="SelecComp">
+                                <select id="SelecComp">
                                     <option selected>Seleccione un comprobante</option>
                                     <option value="1">One</option>
                                     <option value="2">Two</option>
@@ -103,73 +103,19 @@ const CreationView = (initialDb) => {
                             <textarea type="text" class="form-control" id="inputtext" placeholder="Descripción"></textarea>
                         </div>
 
-                        <div class="contaniner" id="ContenedorArchivoCarga">
-                            <div>
-                            <div id="drag-area"  class="drag-area">
-                                <p id="textcargue"> <FontAwesomeIcon id="iconfile" icon={faFileCsv} />      Arrastra o seleccione un archivo de su equipo</p>                    
-                            </div>
-                            <div id="progressAndButton">
-                                <button id="buttonimport">Importar</button>
-                            </div>
-                            </div>
-
-                            
+                        <div  id="ContenedorArchivoCarga">
+                            <DrogAndDrag />  
                         </div> 
+                            </div>
                         </div>
                         <div id="ContenedorTabla">
-                            <table class="table">
-                                    <thead id="tablehead">
-                                        <tr>
-                                        <th id="tableTop1">AGENCIA</th>
-                                        <th id="tableTop1">CUENTA</th>
-                                        <th id="tableTop1">CLIENTE</th>
-                                        <th id="tableTop4">COMENTARIO</th>
-                                        <th id="tableTop1">REFERENCIA</th>
-                                        <th id="tableTop5">DB</th>
-                                        <th id="tableTop5">CR</th>
-                                        <th id="tableTop3">OPCIONES</th>
-                                        </tr>
-                                    </thead>
-                                <Crudform data={db}/> 
-                                    {/*<tbody>
-                                        <tr>
-                                        <td>
-                                        <select class="form-select" id="select">
-                                            <option selected>Seleccionar</option>
-                                            <option value="1">One</option>
-                                            <option value="2">Two</option>
-                                            <option value="3">Three</option>
-                                        </select>
-                                        </td>
-                                        <td id="selectitems"><input id="selectitems" placeholder="Ingresar cuenta"></input></td>
-                                        <td id="selectitems"><input id="selectitems" placeholder="Ingresar cliente"></input></td>
-                                        <td id="selectitemstree"><input id="selectitemstree" placeholder="Ingresar comentario"></input></td>
-                                        <td id="selectitems"><input id="selectitems" placeholder="Ingresar referencia"></input></td>
-                                        <td id="selectitemstwo"><input id="selectitemstwo" placeholder="0"></input></td>
-                                        <td id="selectitemstwo"><input id="selectitemstwo" placeholder="0"></input></td>
-                                        <td id="selectitemsfour"><button id="buttonselectoption"><FontAwesomeIcon id="iconbutabletrash" icon={faTrash} /></button></td>
-                                        </tr>
-                                    </tbody>*/}
+                            <table class="table-conteiner">
+                                <ContainerTable />
+                                <Crudform /> 
                             </table>
-                            {/*
-                            <div>
-                            <div id="contenedorarchivo">
-                            </div>
-                            </div>
-                            <div id="tablebutton">
-                                <table class="table" id="table">
-                                        <tr>
-                                            <td id="tablebuttontwo"><label>Total</label></td>
-                                            <td><input id="tablebuttontwo"></input></td>
-                                            <td><input id="tablebuttontwo"></input></td>
-                                        </tr>
-                                </table>
-                                <div>
-                                <button id="ButtonAceptar">Aceptar</button>
-                                </div>
-                            </div>
-                            */}
                         </div>
+
+                
                 </div>
          </div>
      );

@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing: border-box;
 }
 
 .bodyViewMotion{
@@ -80,13 +81,14 @@
 }
 
 #tablehead{
-    background-color: black;
-    width: 100%;
+    background-color: #3774AF;
+    width: 100% !important;
 }
 
 .titlehead{
     text-align: left;
-    font: normal normal bold 16px/19px Montserrat;
+    font-family: Montserrat;
+    height: 19px;
     letter-spacing: 0px;
     color: #0E4A7D;
     opacity: 1;
@@ -103,19 +105,31 @@
 }
 
 #conteinerTableReceipt{
+
    margin-left: 20px;
    margin-right: 20px;
 }
+#table-conteiner{
+    background-color: black;
+    height: 500px;
+}
 
 #titlelabel1{
+    border: 1px solid #DDDDDD;
     width: 165px;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
 }
 
 #labeltitle1{
     width: 86px;
-    height: 15px;
+    height: 18px;
     text-align: left;
-    font: normal normal 600 12px/15px Montserrat;
+    font: normal normal 600 14px/18px Montserrat;
     letter-spacing: 0px;
     color: #000000;
     opacity: 0.73;
@@ -146,7 +160,6 @@
     margin-left: 677px;
     margin-top: 42px;
     background: #F4F4F4 0% 0% no-repeat padding-box;
-    border: 0.5px solid #5B4D42;
     opacity: 1;
     text-align: left;
     font: normal normal 600 12px/15px Montserrat;
@@ -178,8 +191,42 @@
     margin-right: 3px;
 }
 
+#alerta{
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    font: normal normal 600 14px/18px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 0.73;
+}
+
 @media print{
-  
+  *{
+      padding: 0%;
+      margin: 0%;
+      background-color: #DDDDDD;
+      color: #DDDDDD;
+  }
+
+  .bodyViewMotion{
+    
+    padding: 0%;
+    margin: 0%;
+    margin-top: 30px;
+  }
+
+  .inputReceipt{
+      width: 170px;
+  }
+  #totales{
+      border: none;
+      display: inline-flex;
+  }
+  #bodyViewMotion{
+      display: none !important;
+  }
+
   #conteinerButton{
       display: none;
   }

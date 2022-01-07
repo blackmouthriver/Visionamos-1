@@ -2,7 +2,9 @@ import React, { useState, useEffect } from 'react';
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome";
 import {faTrash} from "@fortawesome/free-solid-svg-icons";
 import {faTimes} from "@fortawesome/free-solid-svg-icons";
+import MotionCapture from './receiptMotionCapture';
 import { useHistory } from 'react-router-dom';
+import Swal from 'sweetalert2'
 
 const initialDb = [
     {
@@ -92,17 +94,52 @@ const initialForm = {
 
 
 const Crudform = () => {
-    const [form, setForm] = useState(initialForm);
     const history = useHistory();
 
     function redireccionar(){
-        history.push('/movimientos/captura');
+        
+        Swal.fire({
+            title: 'Exito',
+            text: "La captura de movimientos fue exitosa ¿Deseas continuar?",
+            icon: 'success',
+            showCancelButton: true,
+            cancelButtonColor: 'transparent linear-gradient(180deg, #D4D8DA 0%, #EAF3FB 100%) 0% 0% no-repeat padding-box;',
+            cancelButtonText: 'Cancelar',
+            confirmButtonColor: '#0575BF',
+            confirmButtonText: 'Aceptar'
+          }).then((result) => {
+            if (result.isConfirmed) {
+                history.push('/movimientos/captura'); 
+            }
+          })
+      }
+
+      function deleteRow(){
+        
+        Swal.fire({
+            title: '¿Estas seguro?',
+            text: "¿Vas a eliminar esta fila?",
+            icon: 'warning',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+            confirmButtonText: 'Yes, delete it!'
+          }).then((result) => {
+            if (result.isConfirmed) {
+              Swal.fire(
+                'Deleted!',
+                'la fila ha sido eliminada.',
+                'success'
+              )
+            }
+          })
+        
       }
 
     const handleChange =(e) =>{
 
     }
-
+    
     const handleSubmit =(e) =>{
         
     }
@@ -159,8 +196,8 @@ const Crudform = () => {
                         placeholder='0' 
                         >
                 </input>
-                <button 
-                       id="buttonselectoption">
+                <button onClick={deleteRow}
+                        id="buttonselectoption">
                        <FontAwesomeIcon id="iconbutabletrash" 
                        icon={faTrash} />
                        </button>

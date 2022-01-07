@@ -5,7 +5,7 @@ const Modal = ({children, isOpen, closeModal}) => {
     const history = useHistory();
 
     function redireccionar(){
-        history.push('/RECIBO DE CAPTURA DE MOVIMIENTOS');
+        history.push('/movimientos/captura');
       }
 
     return (

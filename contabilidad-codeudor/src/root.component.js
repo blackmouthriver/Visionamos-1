@@ -1,9 +1,10 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 import Cosigner from "./components/NewCo-signer/Cosigner"
-import styleCosigner from "./components/Styles/styleCosigner.css"
-import style from "./components/Styles/style.css"
-import receiptMotion from "./components/Styles/receiptMotion.css"
+import ViewCosigner from './components/Cosigner/ViewCosigner';
+import "./components/Styles/styleCosigner.css"
+import "./components/Styles/style.css"
+import "./components/Styles/receiptMotion.css"
 
 
 export default function Root(props) {
@@ -12,6 +13,9 @@ export default function Root(props) {
       <Route>
         <Switch>
           <Route exact path="/codeudor" component={Cosigner}></Route>
+        </Switch>
+        <Switch>
+          <Route exact path="/codeudor/vercodeudor" component={ViewCosigner}></Route>
         </Switch>
        {/* <Switch>
           <Route exact path="/puc/detalle/:idDeta" component={PucDetalle}></Route>

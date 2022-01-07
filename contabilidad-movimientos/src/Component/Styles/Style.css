@@ -18,9 +18,10 @@
 
 #buttonreturn{
     margin-top: 6px;
-    margin-right: 41px;
+    margin-right: 49px;
+    width: 100px;
     height: 28px;
-    text-align: left;
+    text-align: center;
     font: normal normal medium 14px/18px Montserrat;
     letter-spacing: 0px;
     color: #3774AF;
@@ -33,7 +34,7 @@
     margin-top: 7px;
     height: 32px;
     width: 80px;
-    margin-left: 256px;
+    margin-left: 247px;
     background: transparent linear-gradient(180deg, #0575BF 0%, #0D4C81 100%) 0% 0% no-repeat padding-box;
     border: 1px solid #0D538E;
     border-radius: 2px;
@@ -44,9 +45,10 @@
 }
 
 #buttonquestion{
-    margin-top: 82px;
-    position: fixed;
-    margin-left: 94.60%;
+    justify-content: end;
+    margin-top: 1px;
+    margin-bottom: 3px;
+    margin-left: 1px;
     font-size: 10px;
     width: 14px;
     border-radius: 10px 10px 10px;
@@ -57,7 +59,7 @@
 
 #tablebody{
     padding-left: 127px;
-    background-color: #E9E9E9;
+    *background-color: #E9E9E9;
 }
 
 .title{
@@ -71,11 +73,14 @@
     color: #0E4A7D;
     opacity: 1;
 }
+
 #globalconteinerhead{
     display: inline-flex;
     margin-bottom: 15px;
     background: #E9E9E9 0% 0% no-repeat padding-box;
 }
+
+
 .container-sm{
     top: 212px;
     left: 127px;
@@ -104,17 +109,13 @@
     opacity: 1;
 }
 
-#tablehead{
-    text-align: center;
-    font: normal normal medium 14px/18px Montserrat;
-    letter-spacing: 0px;
-    color: #FFFFFF;
-    background: transparent linear-gradient(180deg, #066CB0 0%, #0A528B 100%) 0% 0% no-repeat padding-box;
+#tableHeader{
+    background-color: transparent linear-gradient(180deg, #066CB0 0%, #0A528B 100%) 0% 0% no-repeat padding-box;
     border: 1px solid #DDDDDD;
     opacity: 1;
 }
-#ContenedorArchivoCarga{
 
+#ContenedorArchivoCarga{
     width: 349px;
     height: 126px;
     font: normal normal medium 16px/19px Montserrat;
@@ -326,23 +327,69 @@ font: normal normal medium 16px/19px Montserrat;
 }
 
 #tableTop1{
-    width: 112px;
+    border: 1px solid #DDDDDD;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 138px;
 }
 
 #tableTop2{
-    width: 114px;
+    border: 1px solid #DDDDDD;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 139px;
 }
 
 #tableTop3{
-    width: 90px;
+    border: 1px solid #DDDDDD;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 339px;
 }
 
 #tableTop4{
-    width: 275px;
+    border: 1px solid #DDDDDD;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 140px;
 }
 
 #tableTop5{
-    width: 65px;
+    border: 1px solid #DDDDDD;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 79px;
+}
+
+#tableTop6{
+    border: 1px solid #DDDDDD;
+    height: 47px;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    color: #FFFFFF;
+    opacity: 1;
+    width: 116px;
 }
 
 #resulselect{

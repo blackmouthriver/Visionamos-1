@@ -86,10 +86,17 @@ registerApplication({
   activeWhen: ["/movimientos/captura"]
 });
 
+
 registerApplication({
   name: "@visionemos/codeudor",
   app: () => System.import("@visionemos/codeudor"),    
   activeWhen: ["/codeudor"]
+});
+
+registerApplication({
+  name: "@visionemos/codeudor/vercodeudor",
+  app: () => System.import("@visionemos/ViewCosigner"),    
+  activeWhen: ["/codeudor/vercodeudor"]
 });
 
 start({
