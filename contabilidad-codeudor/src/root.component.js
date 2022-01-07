@@ -12,10 +12,10 @@ export default function Root(props) {
     <BrowserRouter>
       <Route>
         <Switch>
-          <Route exact path="/Codeudor" component={Cosigner}></Route>
+          <Route exact path="/codeudor" component={Cosigner}></Route>
         </Switch>
         <Switch>
-          <Route exact path="/Ver codeudor" component={ViewCosigner}></Route>
+          <Route exact path="/codeudor/vercodeudor" component={ViewCosigner}></Route>
         </Switch>
        {/* <Switch>
           <Route exact path="/puc/detalle/:idDeta" component={PucDetalle}></Route>
