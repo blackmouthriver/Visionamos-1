@@ -19,6 +19,8 @@ const DrogAndDrag = () => {
         input.click();
     });
     */}
+
+    
     return (
         <div id="drag-container">
             <div id='modal-cotainer'>
